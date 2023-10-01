@@ -39,14 +39,3 @@
 .completed {
   text-decoration: line-through solid red 10%;
 }
-#footer {
-  background-color: #030712;
-  color: #D1D5DB;
-  height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 20px;
-}

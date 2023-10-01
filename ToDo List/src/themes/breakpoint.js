@@ -1,4 +1,3 @@
-
 const breakpoints = {
     xs: '18em',
     sm: '30em',
